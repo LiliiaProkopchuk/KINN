@@ -1,1 +1,1 @@
-KINN
+https://liliiaprokopchuk.github.io/KINN/
