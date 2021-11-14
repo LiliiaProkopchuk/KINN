@@ -1,0 +1,17 @@
+{
+    "0": {
+        "image": "../images/gallery_board-1.jpg",
+        "name": "Maple Board - Short",
+        "price": "98.00"
+    },
+    "1": {
+        "image": "../images/gallery_board-2.jpg",
+        "name": "Maple Board - Long",
+        "price": "125.00"
+    },
+    "2": {
+        "image": "../images/gallery_board-3.jpg",
+        "name": "Maple Board - Wide",
+        "price": "158.00"
+    }
+}
